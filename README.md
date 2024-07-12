@@ -1,1 +1,1 @@
-Os scripts marcados com .cs são códigos usados na criação do jogo, acesso ao jogo está no diretório público: 
+Os scripts marcados com .cs são códigos usados na criação do jogo, acesso ao jogo está no diretório público: https://1drv.ms/u/c/83bad72d06c988b1/Ect0xwb5YahDiTlPzleE9UkBfgm2yXJZbQtQrAqlT3-X_w?e=aoDa60
